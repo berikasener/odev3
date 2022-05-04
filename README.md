@@ -15,7 +15,7 @@ Diyelimki pivotumuzu 7 olarak aldık. 7 den sonraki her sayı 7' ye birleşik bi
 3. 1'in sağındakiler [3,4] ve 1'in solundakiler [0]
 4. 3' ün sağındakiler [4] ve 3' ün solundakiler [2]
 
-şema proje3.png olarak atılmıştır.
+
 
 
 Eğer iyi dağılmışsa her seferinde n/2 karşılaşma yaptığından Time Complexity O(log(n)) adımda olur.
